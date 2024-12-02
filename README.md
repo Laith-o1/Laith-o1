@@ -14,7 +14,7 @@ I'm **Laith Alferjani**, a passionate **Software Engineer**. I specialize in cre
 - **Other Tools:** Git, MySQL, Docker, Postman  
 
 ### 🌟 Why Work With Me?  
-I combine technical skills with a strong problem-solving mindset to deliver robust, scalable solutions. My experience spans **government projects**, **responsive web design**, and **debugging complex issues**. I stay updated on industry trends and am committed to continuous improvement.
+- I stay updated on industry trends and am committed to continuous improvement.
 
 ---
 
