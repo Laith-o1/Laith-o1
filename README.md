@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Laith Ahmed Alferjani**, a passionate **Software Engineer** with a year of experience in the tech industry. I specialize in creating efficient and scalable solutions using **Laravel** and **Vue.js**. 🚀  
 
-<!--
-**Laith-o1/Laith-o1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me  
+- 🔭 I’m currently working as: Software Engineer @ Tatweer Research
+- 🌱 I’m currently learning: Deepening my knowledge in AI and enhancing my proficiency with Laravel  and advanced Vue.js techniques.  
+- 💬 Ask me about: Web development, Laravel, Vue.js, or weightlifting! 💪  
+- 📫 How to reach me:  
+- LinkedIn: [Laith Alferjani](https://www.linkedin.com/in/laith-alferjani-937ba3197)  
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools  
+- **Languages:** PHP, JavaScript  
+- **Frameworks & Libraries:** Laravel, Vue.js, Laravel Nova, Filament.
+- **Other Tools:** Git, MySQL, Docker, Postman  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Why Work With Me?  
+I combine technical skills with a strong problem-solving mindset to deliver robust, scalable solutions. My experience spans **government projects**, **responsive web design**, and **debugging complex issues**. I stay updated on industry trends and am committed to continuous improvement.
+
+---
+
+✨ Feel free to explore my repositories and get in touch if you’d like to collaborate or discuss interesting projects!
