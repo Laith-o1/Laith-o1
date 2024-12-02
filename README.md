@@ -1,5 +1,5 @@
 ## Hi there 👋  
-I'm **Laith Ahmed Alferjani**, a passionate **Software Engineer** with a year of experience in the tech industry. I specialize in creating efficient and scalable solutions using **Laravel** and **Vue.js**. 🚀  
+I'm **Laith Alferjani**, a passionate **Software Engineer**. I specialize in creating efficient and scalable solutions using **Laravel** and **Vue.js**. 🚀  
 
 ### 🌟 About Me  
 - 🔭 I’m currently working as: Software Engineer @ Tatweer Research
