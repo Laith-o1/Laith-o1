@@ -6,7 +6,8 @@ I'm **Laith Alferjani**, a passionate **Software Engineer**. I specialize in cre
 - 🌱 I’m currently learning: Deepening my knowledge in AI and enhancing my proficiency with Laravel  and advanced Vue.js techniques.  
 - 💬 Ask me about: Web development, Laravel, Vue.js, or weightlifting! 💪  
 - 📫 How to reach me:  
-- LinkedIn: [Laith Alferjani](https://www.linkedin.com/in/laith-alferjani-937ba3197)  
+- LinkedIn: [Laith Alferjani](https://www.linkedin.com/in/laith-alferjani-937ba3197)
+- 
 [![committers.top badge](https://user-badge.committers.top/libya_private/Laith-o1.svg)](https://user-badge.committers.top/libya_private/Laith-o1)
 ### 🛠️ Technologies & Tools  
 - **Languages:** PHP, JavaScript  
