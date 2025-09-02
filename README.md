@@ -10,7 +10,7 @@ I'm **Laith Alferjani**, a passionate **Software Engineer**. I specialize in cre
 - 
 [![committers.top badge](https://user-badge.committers.top/libya_private/Laith-o1.svg)](https://user-badge.committers.top/libya_private/Laith-o1)
 ### 🛠️ Technologies & Tools  
-- **Languages:** PHP, JavaScript  
+- **Languages:** PHP, JavaScript, Go 
 - **Frameworks & Libraries:** Laravel, Vue.js, Laravel Nova, Filament.
 - **Other Tools:** Git, MySQL, Docker, Postman  
 
